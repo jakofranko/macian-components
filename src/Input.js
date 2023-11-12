@@ -17,7 +17,7 @@ export default const Input = {
       }, label),
       m('input', {
         id,
-        class: 'p2 mb2',
+        class: 'ph2 pv1 mb2',
         name: id,
         placeholder: label,
         type
